@@ -2253,3 +2253,13 @@ resources:
   type:
   - asff
   url: asdfasdgad
+- authors: test123
+  license: '123'
+  name: '123'
+  description: '123'
+  tags:
+  - '123'
+  - '123'
+  type:
+  - '123'
+  url: '123'
