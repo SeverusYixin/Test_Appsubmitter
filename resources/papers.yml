@@ -126,12 +126,4 @@ resources:
   type:
   - publication
   url: https://doi.org/10.1016/j.vibspec.2024.103685
-- authors: tester
-  license: tester license
-  name: tester name
-  description: This is just a tester to see if it was successful.
-  tags:
-  - tester tag
-  type:
-  - tester types
-  url: tester url
+
