@@ -138,3 +138,12 @@ resources:
   - test2
   - test2
   url: test2
+- authors: test3
+  license: test3
+  name: test3
+  description: test3
+  tags:
+  - test3
+  type:
+  - test3
+  url: test3
