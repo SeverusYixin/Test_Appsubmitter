@@ -1,7 +1,7 @@
 resources:
-- authors: "Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S.\
-    \ Itano, Lisa A. Cameron, Guillermo Marqu\xE9s, Caterina Strambio-De-Castillia,\
-    \ Mark A. Sanders, Claire M. Brown"
+- authors: Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S.
+    Itano, Lisa A. Cameron, Guillermo Marqués, Caterina Strambio-De-Castillia, Mark
+    A. Sanders, Claire M. Brown
   name: 'MethodsJ2: a software tool to capture metadata and generate comprehensive
     microscopy methods text'
   tags:
@@ -67,8 +67,8 @@ resources:
   - publication
   - preprint
   url: https://arxiv.org/abs/2302.01790v3
-- authors: "Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Bu\u011F\
-    ra \xD6zdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur"
+- authors: Isabel Kemmer, Antje Keppler, Beatriz Serrano-Solano, Arina Rybina, Buğra
+    Özdemir, Johanna Bischof, Ayoub El Ghadraoui, John E. Eriksson, Aastha Mathur
   name: Building a FAIR image data ecosystem for microscopy communities
   tags:
   - research data management
@@ -126,3 +126,12 @@ resources:
   type:
   - publication
   url: https://doi.org/10.1016/j.vibspec.2024.103685
+- authors: tester2
+  license: tester license2
+  name: tester name2
+  description: This is just a tester to see if it was successful.2
+  tags:
+  - tester tag2
+  type:
+  - tester types2
+  url: tester url2
