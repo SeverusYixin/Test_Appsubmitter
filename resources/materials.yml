@@ -2253,3 +2253,12 @@ resources:
   type:
   - asff
   url: asdfasdgad
+- authors: asd
+  license: asd
+  name: asd
+  description: asd
+  tags:
+  - asd
+  type:
+  - sad
+  url: sad
