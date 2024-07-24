@@ -203,4 +203,14 @@ resources:
   - workshop
   - collection
   url: https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023
-
+- authors: lksfsad
+  license: Public-domain
+  name: sadsafs
+  description: ''
+  tags:
+  - Bio-Image Analysis
+  - Artificial Intelligence
+  type:
+  - Blog
+  - Conference Abstract
+  url: dsaffdsa
