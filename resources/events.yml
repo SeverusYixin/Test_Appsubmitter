@@ -203,4 +203,13 @@ resources:
   - workshop
   - collection
   url: https://github.com/WeiChenChu/Bioimage_Analysis_ICOB_2023
-
+- authors: Robert Haase
+  license: BSD-2-Clause
+  name: BIDS-lecture-2024
+  description: ''
+  tags:
+  - Artificial Intelligence
+  type:
+  - Blog
+  - Bioimage Analysis
+  url: https://github.com/ScaDS/BIDS-lecture-2024/
