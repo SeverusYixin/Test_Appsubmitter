@@ -120,3 +120,15 @@ resources:
   type:
   - Code
   url: this is a test
+- authors: this is a test6
+  license: All-rights-reserved
+  name: this is a test6
+  description: this is a test6
+  tags:
+  - this is a test6
+  - this is a test66
+  - Pytorch
+  - Metadata
+  type:
+  - Dataset
+  url: this is a test6
