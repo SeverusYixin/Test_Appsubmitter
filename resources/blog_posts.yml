@@ -120,3 +120,16 @@ resources:
   type:
   - Code
   url: this is a test
+- authors: this is a test4
+  license: AGPL-3.0
+  name: this is a test4
+  description: this is a test4
+  tags:
+  - Artificial Intelligence
+  - Bioimage Analysis
+  - this is a test4
+  - this is a test44
+  type:
+  - Blog
+  - Book
+  url: this is a test4
