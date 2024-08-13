@@ -120,3 +120,15 @@ resources:
   type:
   - Code
   url: this is a test
+- authors: this is a test2
+  license: All-rights-reserved
+  name: this is a test2
+  description: this is a test2
+  tags:
+  - Artificial Intelligence
+  - Big Data
+  - this is a test2
+  type:
+  - Blog
+  - Collection
+  url: this is a test2
