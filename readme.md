@@ -1,5 +1,7 @@
 # Training materials
 
+Attention! This channel is just for testing the appsubmitter functionality, the final version is available at https://github.com/NFDI4BIOIMAGE/training
+
 This repository contains a collection of links to training materials and related resources. The collection can be browsed under this URL:
 
 https://NFDI4BIOIMAGE.github.io/training
