@@ -110,4 +110,17 @@ resources:
   - science communication
   type: blog
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
-
+- authors: this is a test10
+  license:
+  - All Rights Reserved
+  - Apache-2.0
+  name: this is a test10
+  description: this is a test10
+  tags:
+  - This Is A Test10
+  - Artificial Intelligence
+  - Bioimage Analysis
+  type:
+  - Bioimage Analysis
+  - Code
+  url: this is a test10
