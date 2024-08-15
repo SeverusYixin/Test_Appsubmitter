@@ -110,4 +110,12 @@ resources:
   - science communication
   type: blog
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
-
+- authors: this is a test10
+  license:
+  - CC-BY-4.0
+  name: this is a test10
+  description: ''
+  tags:
+  - This Is A Test3
+  type: []
+  url: ''
