@@ -110,31 +110,4 @@ resources:
   - science communication
   type: blog
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
-- authors: asd
-  license: AGPL-3.0
-  name: rob
-  description: this is a test
-  tags:
-  - Big Data
-  - Bioimage Data
-  type:
-  - Code
-  url: this is a test
-- authors: this is a test10
-  license:
-  - All Rights Reserved
-  - BSD-2-Clause
-  - CC-BY-4.0
-  name: this is a test10
-  description: this is a test10
-  tags:
-  - This Is A Test10
-  - This Is A Test100
-  - '123'
-  - Bioinformatics
-  - Big Data
-  type:
-  - Code
-  - Collection
-  - Conference Abstract
-  url: this is a test10
+
