@@ -110,12 +110,4 @@ resources:
   - science communication
   type: blog
   url: https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/
-- authors: lksfsad
-  license: sad
-  name: asdf
-  description: ''
-  tags:
-  - ''
-  type:
-  - ''
-  url: ''
+
