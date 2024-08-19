@@ -2262,3 +2262,19 @@ resources:
   type:
   - sad
   url: sad
+- authors: this is a test
+  license:
+  - All Rights Reserved
+  - BSD-2-Clause
+  name: this is a test
+  description: this is a test
+  tags:
+  - Big Data
+  - Bioimage Data
+  - This Is A Test
+  - This Is A Test1212
+  - This Is A Test2
+  type:
+  - Bioimage Analysis
+  - Book
+  url: this is a test
