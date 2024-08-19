@@ -119,3 +119,22 @@ resources:
   - This Is A Test3
   type: []
   url: ''
+- authors: this is a test final
+  license:
+  - All Rights Reserved
+  - BSD-2-Clause
+  - CC-BY-4.0
+  - Cc-By-Sa-4.0
+  - Cc0 Licence (Some Accessions Are Available Under Different License, If So The
+    License Is Indicated As Attribute On Dataset)
+  name: this is a test final
+  description: this is a test final
+  tags:
+  - Big Data
+  - Bioimage Data
+  - This Is A Test Final
+  - This Is A Test Final10
+  type:
+  - Book
+  - Blog
+  url: this is a test final
