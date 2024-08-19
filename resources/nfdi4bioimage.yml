@@ -4360,3 +4360,17 @@ resources:
   - Code
   - Bioimage Analysis
   url: this is a test1111
+- authors: this is a test3
+  license:
+  - All Rights Reserved
+  - BSD License
+  name: this is a test3
+  description: this is a test3
+  tags:
+  - Artificial Intelligence
+  - Bio-Image Analysis
+  - this is a test3
+  type:
+  - Collection
+  - Code
+  url: this is a test3
