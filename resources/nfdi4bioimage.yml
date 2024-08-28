@@ -4360,3 +4360,17 @@ resources:
   - Code
   - Bioimage Analysis
   url: this is a test1111
+- authors: this is a test pd
+  license:
+  - BSD 2-clause
+  - BSD 3-Clause
+  name: this is a test pd
+  description: this is a test pd
+  tags:
+  - DataPLANT
+  - FAIR
+  - this is a test pd
+  - this is a test pd2
+  type:
+  - big data
+  url: this is a test pd
