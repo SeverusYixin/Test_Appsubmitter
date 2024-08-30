@@ -4374,3 +4374,17 @@ resources:
   type:
   - big data
   url: this is a test pd
+- authors: This is a test again
+  license:
+  - AGPL-3.0
+  - BSD LICENSE
+  name: This is a test again
+  description: This is a test again
+  tags:
+  - Artificial Intelligence
+  - Bio-Image Analysis
+  - This is a test again
+  type:
+  - Blog
+  - Book
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
