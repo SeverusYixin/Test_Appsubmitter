@@ -4388,3 +4388,15 @@ resources:
   - Blog
   - Book
   url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
+- authors: This is a test again2
+  license:
+  - ALL RIGHTS RESERVED
+  - BSD LICENSE
+  name: This is a test again2
+  description: This is a test again2
+  tags:
+  - Artificial Intelligence
+  - This is a test again2
+  type:
+  - Bioimage Analysis
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
