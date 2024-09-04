@@ -4421,3 +4421,15 @@ resources:
   type:
   - Bioimage Analysis
   url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
+- authors: let's try again 3
+  license:
+  - ALL RIGHTS RESERVED
+  name: This is a test again2
+  description: xxxxsadsadxzcef
+  tags:
+  - Bioimage Analysis
+  - asd
+  - sad
+  type:
+  - Bioimage Analysis
+  url: https://cloud.scadsai.uni-leipzig.de/index.php/apps/calendar/timeGridWeek/now
